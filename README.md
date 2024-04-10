@@ -1,4 +1,4 @@
-# CS_010B - Algorithm Analysis & Lists
+# CS_010C - Algorithm Analysis & Lists
 
 Welcome to the new branch of CS_010B - Introduction to Data Structures! This branch contains code examples and projects related to Algorithm Analysis and Lists.
 
