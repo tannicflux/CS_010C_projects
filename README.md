@@ -39,6 +39,7 @@ To run the revised code, use a [compiler/interpreter] for [language]. For exampl
 ```bash
 g++ -o program_name program_name.cpp
 ```
+Replace program_name with the name of the program you want to compile.
 
 If you want detailed codes of CS_010B then follow this link.
 
