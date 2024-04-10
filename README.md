@@ -1,6 +1,6 @@
 # CS_010C - Introduction to Data Structures
 
-This repository contains code for the CS_010C course, Introduction to Data Structures, at [University Name]. The code is organized by topics covered in the course and includes examples, exercises, and projects.
+This repository contains code for the CS_010C course, Introduction to Data Structures, at UCR. The code is organized by topics covered in the course and includes examples, exercises, and projects.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository contains code for the CS_010C course, Introduction to Data Struc
 
 ## Description
 
-This repository contains code written in [language], focusing on implementing various data structures such as arrays, linked lists, stacks, queues, trees, and graphs. The code also includes algorithms for sorting, searching, and manipulating these data structures.
+This repository contains code written in C++, focusing on implementing various data structures such as arrays, linked lists, stacks, queues, trees, and graphs. The code also includes algorithms for sorting, searching, and manipulating these data structures.
 
 ## Topics Covered
 
@@ -37,7 +37,7 @@ git clone https://github.com/your-username/CS_010C.git
 ```
 ## Usage
 
-Each topic in the course is organized into its own directory. Inside each directory, you will find code examples, exercises, and possibly projects related to that topic. The code is well-commented and should be easy to follow.
+Each topic in the course is organized into its own branch. Inside each branch, you will find code examples and possibly projects related to that topic. The code is well-commented and should be easy to follow.
 
 To run the code, use a compiler for C++. For example, to compile a C++ program, use the following command:
 
