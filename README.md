@@ -34,7 +34,7 @@ git clone -b revision https://github.com/your-username/CS_010B.git
 
 The revised code is organized by topics covered in the CS_010B course. The code contains a code which uses all topics covered in CS_010B. The code is well-commented and should be easy to follow.
 
-To run the revised code, use a [compiler/interpreter] for [language]. For example, to compile a C++ program, use the following command:
+To run the revised code, use a compiler for C++. For example, to compile a C++ program, use the following command:
 
 ```bash
 g++ -o program_name program_name.cpp
